@@ -1,0 +1,6 @@
+{
+  "name": "AuraPOS Enterprise",
+  "description": "Comprehensive Point of Sale (POS) and Retail Enterprise Management System with multi-device session lock, barcode scanning, 80mm & A4 receipt printing, inventory tracking, and dynamic currency.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
